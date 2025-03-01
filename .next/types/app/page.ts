@@ -1,4 +1,4 @@
-// File: C:\Work\premierdrinks\premierdrinks.in-main\app\page.js
+// File: C:\Work\deploy\premierdrinks-main\premierdrinks-main\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

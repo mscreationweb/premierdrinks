@@ -54,7 +54,7 @@ export default function Banner() {
                                     <div className="text">Bursting with real fruit goodness, our juices are pure, natural, and refreshing—no preservatives, just fresh taste! Stay cool, stay healthy!
                                     </div>
                                     <div className="btns-box">
-                                        <Link href="contact" className="theme-btn btn-style-one clearfix"><span className="icon"></span>Contact Now</Link>
+                                        <Link href="/contact" className="theme-btn btn-style-one clearfix"><span className="icon"></span>Contact Now</Link>
                                     </div>
                                     {/* <div className="icons-box" style={{display:'flex'}}>
                                         <img src="./assets/images/allimg/homepage/Banner1.webp" alt="" />
