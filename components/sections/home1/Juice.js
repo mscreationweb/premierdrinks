@@ -36,7 +36,7 @@ export default function Juice() {
                                 </div>
                             </div>
                             {/* <div  className="theme-btn btn-style-one clearfix" style={{borderRadius:'1px', backgroundColor:'#45B653'}}><span className="icon"></span>Buy Now</div> */}
-                            <Link href="menu" className="theme-btn btn-style-two clearfix" ><span className="icon"></span>100% UV Treated RO Water</Link>
+                            <Link href="#" className="theme-btn btn-style-two clearfix" ><span className="icon"></span>100% UV Treated RO Water</Link>
                         </div>
                     </div>
                     
@@ -81,7 +81,7 @@ export default function Juice() {
                                 </div>
                             </div>
                             {/* <div  className="theme-btn btn-style-one clearfix" style={{borderRadius:'1px', backgroundColor:'#45B653'}}><span className="icon"></span>Buy Now</div> */}
-                            <Link href="menu" className="theme-btn btn-style-two clearfix" ><span className="icon"></span>100% UV Treated RO Water</Link>
+                            <Link href="#" className="theme-btn btn-style-two clearfix" ><span className="icon"></span>100% UV Treated RO Water</Link>
                         </div>
                     </div>
                     
